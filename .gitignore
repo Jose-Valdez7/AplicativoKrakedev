@@ -1,6 +1,5 @@
 ConfiguracionIDE/
-
-EvidenciasDelDesarrollo/
-*.PNG*
-*.jpg*
-*Manual.txt*
+EvidenciasDelDesarrollo
+*.PNG
+*.jpg
+Manual.txt
